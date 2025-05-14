@@ -1,1 +1,1 @@
-import code1, code2
+import .code1, .code2, .exam1, .exam2
